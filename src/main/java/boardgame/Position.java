@@ -1,4 +1,4 @@
-package org.juniorjvsousa.boardgame;
+package boardgame;
 
 public class Position {
     private int row;

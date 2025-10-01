@@ -48,3 +48,6 @@ build/
 # Package Files #
 *.tar.gz
 *.rar
+
+
+pom.xml

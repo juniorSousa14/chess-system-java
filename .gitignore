@@ -50,4 +50,4 @@ build/
 *.rar
 
 
-pom.xml
+.pom.xml
